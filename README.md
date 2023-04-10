@@ -21,7 +21,7 @@ pip3 install pygame
 
 
 
-3. To start game open Chess_Final.py
+3. To start game open Chess_Game_Package.py
 
 4. The game initializes with white to make the first move (per the rules of chess)
 
