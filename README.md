@@ -1,5 +1,5 @@
 # Chess_Game
-<img width="638" alt="Screen Shot 2023-04-09 at 9 36 11 PM" src="https://user-images.githubusercontent.com/41333345/230808435-5c9d667c-8f1e-4ba5-ab58-3a525be12e81.png">
+<img width="638" alt="Screen Shot 2023-04-09 at 9 37 39 PM" src="https://user-images.githubusercontent.com/41333345/230808590-4cbccc6d-5ee6-491e-a380-17a925f91549.png">
 
 [Python] Pygame Chess Game - Public Package
 
