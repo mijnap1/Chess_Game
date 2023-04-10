@@ -1,8 +1,9 @@
 # Chess_Game
+<img width="638" alt="Screen Shot 2023-04-09 at 9 36 11 PM" src="https://user-images.githubusercontent.com/41333345/230808435-5c9d667c-8f1e-4ba5-ab58-3a525be12e81.png">
+
 [Python] Pygame Chess Game - Public Package
 
 <u>Intructions for how to use this chess game </u>:
-
 
 1. Make sure Pieces folder is in the same directory as Chess_Final.py
 
@@ -50,4 +51,3 @@ It will ask if you want to play another game. If you do press yes, if not press 
 
 
 Have fun playing my game !!!
-
